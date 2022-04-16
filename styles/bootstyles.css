@@ -1,0 +1,56 @@
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 30px;
+    border-bottom: solid 2px goldenrod;
+    text-align: right;
+}
+
+.caption{
+    top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    background-color: lightyellow;
+    border: solid 2px black;
+    margin-bottom: 50px;
+}
+
+.captiontext{
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.footer{
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 40px;
+    border-top: solid 2px goldenrod;
+    padding-top: 7px;
+}
+
+.footertext{
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.dashboard{
+    margin-left: auto;
+    margin-right: auto;
+    bottom: 25px;
+    top: 25px;
+    width: 750px;
+    border: solid 2px goldenrod;
+    margin-bottom: 5px;
+}
+
+.pagetitle{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    margin-bottom: 10px;
+}
